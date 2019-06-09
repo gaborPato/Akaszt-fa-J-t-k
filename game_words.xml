@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<classes_element>
+    <animal>
+        <an_animal>kutya</an_animal>
+        <an_animal>macska</an_animal>
+        <an_animal>zebrapinty</an_animal>
+        <an_animal>patkány</an_animal>
+        <an_animal>egér</an_animal>
+        <an_animal>kékbálna</an_animal>
+        <an_animal>hullámos papagáj</an_animal>
+        <an_animal>sivatagi róka</an_animal>
+        <an_animal>Afrikai elefánt</an_animal>
+
+
+    </animal>
+    <fruit>
+        <a_fruit>alma</a_fruit>
+        <a_fruit>körte</a_fruit>
+        <a_fruit>szilva</a_fruit>
+        <a_fruit>szőlő</a_fruit>
+        <a_fruit>mangó</a_fruit>
+        <a_fruit>görögdinnye</a_fruit>
+        <a_fruit>kiwi</a_fruit>
+    </fruit>
+    <flower>
+        <a_flower>ibolya</a_flower>
+        <a_flower>liliom</a_flower>
+        <a_flower>pipacs</a_flower>
+        <a_flower>jácint</a_flower>
+        <a_flower>rózsa</a_flower>
+        <a_flower>tulipán</a_flower>
+
+
+    </flower>
+
+</classes_element>
+
+
